@@ -31,8 +31,8 @@ body {
 
 .circle-container {
     position: fixed;
-    top: 200px;
-    left: 200px;
+    top: -100px;
+    left: -100px;
 }
 
 .circle {
